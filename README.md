@@ -1,2 +1,2 @@
 # Rain
-Using Canvas and JavaScript to create rain effect
+Using HTML5 and JavaScript to create rain effect
